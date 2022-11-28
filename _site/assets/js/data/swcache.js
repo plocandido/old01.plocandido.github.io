@@ -48,7 +48,7 @@ const allowedDomains = [
         'www.google-analytics.com',
     
 
-    'plocandido.github.io',
+    'localhost:4000',
 
     
 
